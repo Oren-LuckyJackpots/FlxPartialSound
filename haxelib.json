@@ -1,9 +1,9 @@
 {
   "name": "FlxPartialSound",
-  "description": "Loading partial data from sound files in flixel",
+  "description": "Loading partial data from sound files in flixel\nFor Orange Engine Version",
   "version": "0.1.0",
   "releasenote": "",
-  "url": "https://github.com/FunkinCrew/FlxPartialSound",
+  "url": "https://github.com/Oren-LuckyJackpots/FlxPartialSound",
   "classPath": "src",
   "license": "MIT",
   "tags": [
@@ -13,6 +13,7 @@
     "strawberryclock"
   ],
   "contributors": [
+    "Oren-LuckyJackpots",
     "FunkinCrew"
   ]
 }
